@@ -1,0 +1,35 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: lightskyblue;
+}
+
+#raiku {
+  background-color: #e7008a;
+}
+
+#row {
+  background-color: #e7008a;
+}
+
+header {
+  text-align: center;
+  background-color: lightskyblue;
+}
+nav ul li :hover {
+  background-color: teal;
+}
+#n {
+  background-color: #e7008a;
+}
+nav h3 marquee {
+  background-color: mediumslateblue;
+}
+.jumbotron-fluid {
+  background-color: white;
+}
+.p2 {
+  padding-left: 20rem;
+}
+#copyright {
+  background-color: #e7008a;
+}
